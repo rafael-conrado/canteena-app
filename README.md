@@ -32,4 +32,4 @@
 <li> npm install apisauce</li>
  <li>npm install swr</li>
  </ul>
-<a href="https://github.com/rafael-conrado/api-canteena">  USAR A ESTA API PARA FUNCIONAR</a>
+<a href="https://github.com/rafael-conrado/api-canteena">  USAR  ESTA API PARA FUNCIONAR</a>
