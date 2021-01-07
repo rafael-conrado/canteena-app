@@ -15,25 +15,21 @@
  <ul>
   <li>React Native</li>
   <li>WEB API REST</li>
-  <li>MYSQL</li>
-  <li>.NETCore</li>
+  <li>MongoDB</li>
  </ul>
 
  <h4> Tecnologias aplicadas no site </h4>
  <ul>
-  <li>React</li>
+  <li>React JS</li>
   <li>WEB API REST</li>
-  <li>MYSQL</li>
-  <li>.NETCore</li>
+  <li>MongoDB</li>
  </ul>
- <h4> Para iniciar o projeto instalar os pacotes:</h4>
+ <h4> Para iniciar o projeto instalar os pacotes/softwares:</h4>
  <ul>
  <li><a href="https://nodejs.org/en/download/">Node</a></li>
  <li><a href="https://www.npmjs.com/get-npm">NPM</a>: npm install </li>
- <li><a href="https://styled-components.com/docs/basics#installation"> Styled components:</a> npm install --save styled-components</li>
- <li><a href="https://www.npmjs.com/package/react-native-input-outline"> Outline</a>  npm i -- save react-native-input-outline</li>
  <li><a href="https://docs.expo.io/">Expo</a> : npm install --global expo-cli </li>
 <li> npm install apisauce</li>
  <li>npm install swr</li>
  </ul>
-git config --global http.sslVerify false
+<a href="https://github.com/rafael-conrado/api-canteena">  USAR A ESTA API PARA FUNCIONAR</a>
