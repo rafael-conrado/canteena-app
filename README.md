@@ -33,3 +33,5 @@
  <li>npm install swr</li>
  </ul>
 <a href="https://github.com/rafael-conrado/api-canteena">  USAR  ESTA API PARA FUNCIONAR</a>
+
+Para ver essa aplicação funcionando  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6752759423422218240/">clique aqui</a>
